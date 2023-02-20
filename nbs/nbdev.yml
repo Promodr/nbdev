@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://Promodr.github.io/nbdev"
+  description: ""A repo""
+  repo-branch: main
+  repo-url: "https://github.com/Promodr/nbdev"
